@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD COLUMN `kills` int(11) DEFAULT 0;
