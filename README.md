@@ -6,4 +6,4 @@
 
 https://discord.gg/rjKN9Vwxc7
 
-``Run the db.sql file for the script to work perfectly``
+``Run the database.sql file for the script to work perfectly``
