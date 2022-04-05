@@ -19,5 +19,5 @@ files {
 	'html/index.html',
 	'html/css/*.css',
 	'html/*.js',
-	'html/images/*.png'
+	'html/css/images/*.png'
 }
